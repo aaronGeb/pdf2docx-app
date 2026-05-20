@@ -46,9 +46,9 @@ The project focuses on preserving:
 
 ```
 pdf2docx-app/
-├── server.js          ← Express server + conversion logic
+├── server.js
 ├── public/
-│   └── index.html     ← Upload UI (drag & drop)
+│   └── index.html
 ├── package.json
 └── README.md
 ```
